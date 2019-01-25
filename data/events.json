@@ -1,0 +1,1 @@
+[null,{"name":"Dołączenie","temp":"mem","event-type":"6","actions":[{"channel":"4","varName":"👏witamy👏","message":"Siema! ${tempVars(\"mem\")} na **GETPVP.PL** 💥💥💥\nZapoznaj się z regulaminem pod: #💌regulamin💌","storage":"0","varName2":"","name":"Send Message"}]}]
