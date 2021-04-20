@@ -1,2 +1,2 @@
 # GETPVP.BOT
-Bot using Heroku 24/7
+some old bot that i made for my friend minecraft server
